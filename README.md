@@ -245,8 +245,6 @@ Sett tone og takt til ``|| Music: spill tone ( High C ) i ( 1 taktslag ) ||``.
         music.playTone(294, music.beat(BeatFraction.Quarter))
         music.playTone(523, music.beat(BeatFraction.Whole))
         music.playTone(523, music.beat(BeatFraction.Whole))
-        music.playTone(392, music.beat(BeatFraction.Whole))
-        music.playTone(349, music.beat(BeatFraction.Quarter))
         }
 ```
 ## Steg 16: Definer tone og takt
